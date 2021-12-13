@@ -11,3 +11,8 @@
 
 1.	Скачать и установить VS Code https://code.visualstudio.com/docs/?dv=win
 2.	Скачать и установить Git https://git-scm.com/download/win
+
+
+###  Просмотр список веток
+
+для того чтобы просмотреть список вветок необходимо использовать  команду  gIT BRANCH 
